@@ -54,6 +54,9 @@ This repository contains a series of hands-on networking experiments designed to
 
 ### Experiment Details
 
+#### 🔹 Experiment 1: Understanding Network Devices and Range of Connectivites
+To Understand and grasp a quick pre-requisite knowledge about each network devices in OSI Layer as well as LAN, MAN, WAN basic concepts.
+
 #### 🔹 Experiment 3: Areas of Networks
 Learn about different network classifications and their characteristics.
 
