@@ -112,6 +112,17 @@ Hands-on implementation of:
 - **Networking Protocols**: TCP/IP, HTTP, FTP, DNS, DHCP, Telnet
 - **Addressing**: IPv4, IPv6
 
+## 🔍 Network Concepts Covered
+
+This project provides practical exposure to:
+
+- OSI and TCP/IP networking models
+- LAN, MAN, and WAN architectures
+- Star, Bus, Ring, Mesh, and Hybrid topologies
+- Static and dynamic IP addressing
+- Client-server communication
+- Network services and protocols
+
 ## 📚 Learning Outcomes
 
 After completing these experiments, you will understand:
