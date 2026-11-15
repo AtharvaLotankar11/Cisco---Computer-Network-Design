@@ -17,6 +17,19 @@
 
 This repository contains a series of hands-on networking experiments designed to demonstrate fundamental concepts in computer networks using **Cisco Packet Tracer**. Each experiment focuses on specific networking protocols, configurations, and topologies.
 
+## 📂 Project Structure
+
+Each experiment contains a Cisco Packet Tracer (`.pkt`) file demonstrating a specific networking concept or configuration.
+
+The repository covers fundamental topics including:
+
+- Network areas and classifications
+- Network topologies
+- IPv4 and IPv6 addressing
+- FTP, Telnet, HTTP, and DNS configuration
+- DHCP implementation
+  
+
 ## ✨ Experiments
 
 | # | Experiment | Description | File |
